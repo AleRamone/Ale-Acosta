@@ -30,6 +30,6 @@ para mi Doctorado en Ciencia y Tecnologia a traves de una beca otorgada por CONI
 Tengo experiencia con herramientas como Pyhton, Django, AndroidStudio, 
 MongoDB, Pure Data, Arduino y diferentes DAWS audiovisuales. 
 
-Me interesa desarrollar mi experiencia profesional en este medio y deseo aportar mi
+Me interesa desarrollar mi experiencia profesional y compartir mi conocimiento en este medio y deseo aportar mi
 conocimiento a través del trabajo en equipo.
 Me considero una persona creativa, proactiva y resolutiva.
