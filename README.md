@@ -12,6 +12,8 @@ I am keen to further develop my professional experience in this field
 and contribute my knowledge through collaborative teamwork.
 I consider myself a creative, proactive, and resourceful person.
 
+Thanks for taking your time to read!
+
 
 Hola! Soy Ale Acosta 
 
