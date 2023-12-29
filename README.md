@@ -1,21 +1,7 @@
-![This is me]((https://github.com/AleRamone/Ale-Acosta/blob/main/obra4.jpg)
-```javascript
-const KeepCoding = {
-code: [
-"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
-"BIG DATA & MACHINE LEARNING",
-"DEVOPS",
-"CIBERSEGURIDAD",
-"BLOCKCHAIN"],
-technologies:[
-"Cursos Online",
-"Webbinars",
-"BootCamps",
-]
-},
-homePage: "https://justcodeit.io/"
-};
-``````
+![This is me](https://github.com/AleRamone/Ale-Acosta/blob/main/obra4.jpg)
+
+
+
 Hello! I'm Ale Acosta
 
 and this is my personal repository.
