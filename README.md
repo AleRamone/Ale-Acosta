@@ -35,6 +35,13 @@ para mi Doctorado en Ciencia y Tecnologia a traves de una beca otorgada por [CON
 Me interesa compartir, aportar y expandir mis conocimientos a través del trabajo en equipo.
 Me considero una persona creativa y predispuesta.
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
+
 Podés ver algunos de mis desarrollos aquí:
 
 
