@@ -27,14 +27,22 @@ Soy Licenciado en Música y Tecnología por la [Universidad
 Nacional de Quilmes](https://www.unq.edu.ar/), Buenos Aires, Argentina.
 Actualmente continuo desarrollando software principalmente en Python
 para mi Doctorado en Ciencia y Tecnologia a traves de una beca otorgada por [CONICET](https://www.conicet.gov.ar/).
-Tengo experiencia con herramientas como Pyhton, Django, AndroidStudio, 
-MongoDB, Pure Data, Arduino y diferentes DAWS audiovisuales. 
+🛠️ Tengo experiencia con el lenguaje Pyhton, 
+    en el framework Django 
+    en base de datos MongoDB y MySQL,
+    y otros como HTML, CSS, Pure Data, Arduino y diferentes DAWS audiovisuales. 
 
-Me interesa desarrollar mi experiencia profesional y compartir mi conocimiento en este medio y deseo aportar mi
-conocimiento a través del trabajo en equipo.
-Me considero una persona creativa, proactiva y resolutiva.
+Me interesa compartir, aportar y expandir mis conocimientos a través del trabajo en equipo.
+Me considero una persona creativa y predispuesta.
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> acosta.alejandrodani@gmail.com
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+Podés ver algunos de mis desarrollos aquí:
+
+
+
+📫 Contactos:
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />     acosta.alejandrodani@gmail.com
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 
 
