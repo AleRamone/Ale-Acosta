@@ -34,4 +34,7 @@ Me interesa desarrollar mi experiencia profesional y compartir mi conocimiento e
 conocimiento a través del trabajo en equipo.
 Me considero una persona creativa, proactiva y resolutiva.
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> acosta.alejandrodani@gmail.com
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
