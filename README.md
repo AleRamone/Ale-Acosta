@@ -33,3 +33,5 @@ MongoDB, Pure Data, Arduino y diferentes DAWS audiovisuales.
 Me interesa desarrollar mi experiencia profesional y compartir mi conocimiento en este medio y deseo aportar mi
 conocimiento a través del trabajo en equipo.
 Me considero una persona creativa, proactiva y resolutiva.
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
