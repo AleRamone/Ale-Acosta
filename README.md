@@ -44,6 +44,8 @@ Me considero una persona creativa y predispuesta.
 
 Podés ver algunos de mis desarrollos aquí:
 
+[Desarrollo de herramienas informaticas para a generación de música e imágenes a partir de datos personales](https://github.com/AleRamone/imagen-y-sonido-a-partir-de-datos-personales)
+
 
 
 📫 Contactos:
