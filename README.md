@@ -46,7 +46,7 @@ Podés ver algunos de mis desarrollos aquí:
 
 [Onsets and BPM](https://github.com/AleRamone/Onset-and-BPM-)
 
-[Desarrollo de herramienas informáticas para a generación de música e imágenes a partir de datos personales](https://github.com/AleRamone/imagen-y-sonido-a-partir-de-datos-personales)
+[Herramienas informáticas para generación de música e imágenes a partir de datos personales](https://github.com/AleRamone/imagen-y-sonido-a-partir-de-datos-personales)
 
 [Backend con Django](https://github.com/AleRamone/Backend-Network-Django)
 
