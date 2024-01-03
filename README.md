@@ -26,10 +26,10 @@ y este es mi repo personal.
 Soy Licenciado en Música y Tecnología por la [Universidad
 Nacional de Quilmes](https://www.unq.edu.ar/), Buenos Aires, Argentina.
 Actualmente continuo desarrollando software principalmente en Python
-para mi Doctorado en Ciencia y Tecnologia a traves de una beca otorgada por [CONICET](https://www.conicet.gov.ar/).
-🛠️ Tengo experiencia con el lenguaje Pyhton, 
-    en el framework Django 
-    en base de datos MongoDB y MySQL,
+para mi Doctorado en Ciencia y Tecnologia a través de una beca otorgada por [CONICET](https://www.conicet.gov.ar/).
+🛠️ Tengo experiencia en desarrollo con el lenguaje Pyhton, 
+    en framework trabajé con Django 
+    en base de datos con MongoDB y MySQL,
     y otros como HTML, CSS, Pure Data, Arduino y diferentes DAWS audiovisuales. 
 
 Me interesa compartir, aportar y expandir mis conocimientos a través del trabajo en equipo.
@@ -44,7 +44,7 @@ Me considero una persona creativa y predispuesta.
 
 Podés ver algunos de mis desarrollos aquí:
 
-[Desarrollo de herramienas informaticas para a generación de música e imágenes a partir de datos personales](https://github.com/AleRamone/imagen-y-sonido-a-partir-de-datos-personales)
+[Desarrollo de herramienas informáticas para a generación de música e imágenes a partir de datos personales](https://github.com/AleRamone/imagen-y-sonido-a-partir-de-datos-personales)
 
 
 
